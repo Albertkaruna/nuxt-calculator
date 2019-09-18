@@ -2,6 +2,8 @@
 
 > Simple Calculator with Nuxt.js
 
+![Alt text](/static/Calc_Preview.png?raw=true "Title")
+
 ## Build Setup
 
 ``` bash
