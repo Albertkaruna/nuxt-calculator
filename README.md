@@ -1,6 +1,6 @@
 # nuxt-calc
 
-> My top-notch Nuxt.js project
+> Simple Calculator with Nuxt.js
 
 ## Build Setup
 
