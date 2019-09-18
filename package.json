@@ -1,0 +1,21 @@
+{
+  "name": "nuxt-calc",
+  "version": "1.0.0",
+  "description": "My top-notch Nuxt.js project",
+  "author": "karuna",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
+    "mathjs": "^6.2.1",
+    "nuxt": "^2.0.0"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0"
+  }
+}
